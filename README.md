@@ -1,7 +1,7 @@
 # C_Plus_Plus
 Average of Sum,
 Counting Number,
-Factorial.cpp,
+Factorial,
 Half Star Pyramid,
 Input Digits,
 Inverted Half Pyramid,
